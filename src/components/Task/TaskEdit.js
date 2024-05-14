@@ -105,7 +105,7 @@ const TaskEdit = () => {
             </PaperProvider>
         );
     }
-
+ 
     return (
         <ScrollView style={styles.container} keyboardShouldPersistTaps="handled">
 
